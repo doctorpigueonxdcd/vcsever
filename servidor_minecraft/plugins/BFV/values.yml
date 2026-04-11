@@ -1,0 +1,160 @@
+apple:
+  food: 4.0
+  saturation: 2.4
+  damage: 0.0
+baked_potato:
+  food: 5.0
+  saturation: 6.0
+  damage: 0.0
+beetroot:
+  food: 1.0
+  saturation: 1.2
+  damage: 0.0
+beetroot_soup:
+  food: 6.0
+  saturation: 7.2
+  damage: 0.0
+bread:
+  food: 5.0
+  saturation: 6.0
+  damage: 0.0
+cake:
+  food: 2.0
+  saturation: 0.4
+  damage: 1.0
+carrot:
+  food: 3.0
+  saturation: 3.6
+  damage: 0.0
+chorus_fruit:
+  food: 4.0
+  saturation: 2.4
+  damage: 1.0
+cooked_beef:
+  food: 8.0
+  saturation: 12.8
+  damage: 0.0
+cooked_chicken:
+  food: 6.0
+  saturation: 7.2
+  damage: 0.0
+cooked_cod:
+  food: 5.0
+  saturation: 6.0
+  damage: 0.0
+cooked_mutton:
+  food: 6.0
+  saturation: 9.6
+  damage: 0.0
+cooked_porkchop:
+  food: 8.0
+  saturation: 12.8
+  damage: 0.0
+cooked_rabbit:
+  food: 5.0
+  saturation: 6.0
+  damage: 0.0
+cooked_salmon:
+  food: 6.0
+  saturation: 9.6
+  damage: 0.0
+cookie:
+  food: 2.0
+  saturation: 0.4
+  damage: 1.0
+dried_kelp:
+  food: 1.0
+  saturation: 0.6
+  damage: 1.0
+enchanted_golden_apple:
+  food: 4.0
+  saturation: 9.4
+  damage: 0.0
+golden_apple:
+  food: 4.0
+  saturation: 9.6
+  damage: 0.0
+golden_carrot:
+  food: 6.0
+  saturation: 14.4
+  damage: 0.0
+honey_bottle:
+  food: 6.0
+  saturation: 1.2
+  damage: 0.0
+melon_slice:
+  food: 2.0
+  saturation: 1.2
+  damage: 0.0
+mushroom_stew:
+  food: 6.0
+  saturation: 7.2
+  damage: 0.0
+poisonous_potato:
+  food: 2.0
+  saturation: 1.2
+  damage: 1.0
+potato:
+  food: 1.0
+  saturation: 0.6
+  damage: 0.0
+pufferfish:
+  food: 1.0
+  saturation: 0.2
+  damage: 2.0
+pumpkin_pie:
+  food: 8.0
+  saturation: 4.8
+  damage: 0.0
+rabbit_stew:
+  food: 10.0
+  saturation: 12.0
+  damage: 0.0
+beef:
+  food: 3.0
+  saturation: 1.8
+  damage: 0.0
+chicken:
+  food: 2.0
+  saturation: 1.2
+  damage: 0.0
+cod:
+  food: 2.0
+  saturation: 0.4
+  damage: 0.0
+mutton:
+  food: 2.0
+  saturation: 1.2
+  damage: 0.0
+porkchop:
+  food: 3.0
+  saturation: 1.8
+  damage: 0.0
+rabbit:
+  food: 3.0
+  saturation: 1.8
+  damage: 0.0
+salmon:
+  food: 2.0
+  saturation: 0.4
+  damage: 0.0
+rotten_flesh:
+  food: 4.0
+  saturation: 0.8
+  damage: 0.0
+spider_eye:
+  food: 2.0
+  saturation: 3.2
+  damage: 0.0
+suspicious_stew:
+  food: 6.0
+  saturation: 7.2
+  damage: 0.0
+sweet_berries:
+  food: 2.0
+  saturation: 0.4
+  damage: 0.0
+tropical_fish:
+  food: 1.0
+  saturation: 0.2
+  damage: 0.0

@@ -1,0 +1,21 @@
+language:
+  prefix: '&9&lBFV &b'
+  prefixError: '&4&lBFV &c'
+  prefixStaff: '&7&o[STAFF] &r'
+  noPermission: '&cI''m sorry, but you dont have permission to perform this command.'
+  noArguments: '&cYou need to provide arguments. Try &4/bfv help &cfor help.'
+  unkownCommand: '&cI''m sorry but I don''t recognize that command. Try &4/bfv help
+    &cfor help.'
+  noFoodName: '&cYou need to provide a food name.'
+  foodNotFound: '&cI''m sorry, but I couldn''t find the food &4%n&b!'
+  foodFoundNoDamage: '&3%s&b gives you &3%s&b food points and &3%s&b saturation.'
+  foodFoundWithDamage: '&3%s&b gives you &3%s&b food points and &3%s&b saturation.
+    But be carefull, you could take up to &3%s&b hearts of damage when eating this!'
+  settingNotFound: 'I''m sorry, but I couldn''t find &4%s&c, please pick one of the
+    following: &4food&c, &4saturation &cor &4damage'
+  foodSettingInfo: 'The &3%s&b value of &3%s&b is: &3%s'
+  notANumber: '&4%s&c is not a number.'
+  nothingChanged: Nothing changed, the &3%s&b value of &3%s&b is already &3%s
+  changeSuccessfull: Successfully set the &3%s&b value of &3%s&b to &3%s
+  wrongFoodConsumed: '&4%s&c just ate: &4%s &cand it''s not in the &4values.yml&c!
+    No special effects have been given.'
